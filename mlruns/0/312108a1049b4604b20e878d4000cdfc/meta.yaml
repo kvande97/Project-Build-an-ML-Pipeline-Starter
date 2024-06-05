@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kylev/OneDrive/Documents/Self%20Development/School/WGU/D501/Project-Build-an-ML-Pipeline-Starter/mlruns/0/312108a1049b4604b20e878d4000cdfc/artifacts
+end_time: 1717556187036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 312108a1049b4604b20e878d4000cdfc
+run_name: gregarious-pug-327
+run_uuid: 312108a1049b4604b20e878d4000cdfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717556069327
+status: 4
+tags: []
+user_id: kvande97

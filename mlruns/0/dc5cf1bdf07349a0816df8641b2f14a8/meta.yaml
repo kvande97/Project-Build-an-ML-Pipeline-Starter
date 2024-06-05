@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kylev/OneDrive/Documents/Self%20Development/School/WGU/D501/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dc5cf1bdf07349a0816df8641b2f14a8/artifacts
+end_time: 1717555475138
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc5cf1bdf07349a0816df8641b2f14a8
+run_name: bald-slug-644
+run_uuid: dc5cf1bdf07349a0816df8641b2f14a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717555472316
+status: 4
+tags: []
+user_id: kvande97

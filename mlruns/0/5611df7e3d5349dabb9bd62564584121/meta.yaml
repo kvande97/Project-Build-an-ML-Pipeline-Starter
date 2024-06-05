@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kylev/OneDrive/Documents/Self%20Development/School/WGU/D501/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5611df7e3d5349dabb9bd62564584121/artifacts
+end_time: 1717558254015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5611df7e3d5349dabb9bd62564584121
+run_name: orderly-fawn-687
+run_uuid: 5611df7e3d5349dabb9bd62564584121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717558239185
+status: 3
+tags: []
+user_id: kvande97

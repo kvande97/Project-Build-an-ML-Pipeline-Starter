@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kylev/OneDrive/Documents/Self%20Development/School/WGU/D501/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3ad75eb5776048128fdc715bf050c2cd/artifacts
+end_time: 1717557927304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ad75eb5776048128fdc715bf050c2cd
+run_name: loud-cod-619
+run_uuid: 3ad75eb5776048128fdc715bf050c2cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717557827572
+status: 3
+tags: []
+user_id: kvande97

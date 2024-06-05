@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kylev/OneDrive/Documents/Self%20Development/School/WGU/D501/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ec499d176a38442c98bd084f5b65f450/artifacts
+end_time: 1717556583330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec499d176a38442c98bd084f5b65f450
+run_name: wise-chimp-173
+run_uuid: ec499d176a38442c98bd084f5b65f450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717556502482
+status: 3
+tags: []
+user_id: kvande97

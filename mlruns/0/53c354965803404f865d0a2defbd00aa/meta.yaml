@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kylev/OneDrive/Documents/Self%20Development/School/WGU/D501/Project-Build-an-ML-Pipeline-Starter/mlruns/0/53c354965803404f865d0a2defbd00aa/artifacts
+end_time: 1717556061733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53c354965803404f865d0a2defbd00aa
+run_name: merciful-pig-285
+run_uuid: 53c354965803404f865d0a2defbd00aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717555899852
+status: 4
+tags: []
+user_id: kvande97

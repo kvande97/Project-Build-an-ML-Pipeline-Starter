@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kylev/OneDrive/Documents/Self%20Development/School/WGU/D501/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d325e9a7a6ee43d0ac2441704ebe1c4b/artifacts
+end_time: 1717557788041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d325e9a7a6ee43d0ac2441704ebe1c4b
+run_name: gentle-koi-946
+run_uuid: d325e9a7a6ee43d0ac2441704ebe1c4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717557781376
+status: 4
+tags: []
+user_id: kvande97

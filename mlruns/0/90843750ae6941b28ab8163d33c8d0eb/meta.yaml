@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kylev/OneDrive/Documents/Self%20Development/School/WGU/D501/Project-Build-an-ML-Pipeline-Starter/mlruns/0/90843750ae6941b28ab8163d33c8d0eb/artifacts
+end_time: 1717556377149
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90843750ae6941b28ab8163d33c8d0eb
+run_name: learned-donkey-157
+run_uuid: 90843750ae6941b28ab8163d33c8d0eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717556334736
+status: 3
+tags: []
+user_id: kvande97

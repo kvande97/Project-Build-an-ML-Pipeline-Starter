@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kylev/OneDrive/Documents/Self%20Development/School/WGU/D501/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ab4b511eaefc44c2be69682bc3817b81/artifacts
+end_time: 1717557926241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab4b511eaefc44c2be69682bc3817b81
+run_name: capable-shrew-319
+run_uuid: ab4b511eaefc44c2be69682bc3817b81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717557833322
+status: 3
+tags: []
+user_id: kvande97

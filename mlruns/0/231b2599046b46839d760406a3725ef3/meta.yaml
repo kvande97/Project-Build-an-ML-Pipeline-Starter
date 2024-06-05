@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kylev/OneDrive/Documents/Self%20Development/School/WGU/D501/Project-Build-an-ML-Pipeline-Starter/mlruns/0/231b2599046b46839d760406a3725ef3/artifacts
+end_time: 1717555703392
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 231b2599046b46839d760406a3725ef3
+run_name: zealous-chimp-871
+run_uuid: 231b2599046b46839d760406a3725ef3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717555700515
+status: 4
+tags: []
+user_id: kvande97

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kylev/OneDrive/Documents/Self%20Development/School/WGU/D501/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e3de803bd01f41e0bc301ec81f5e6c39/artifacts
+end_time: 1717557239075
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3de803bd01f41e0bc301ec81f5e6c39
+run_name: abrasive-finch-4
+run_uuid: e3de803bd01f41e0bc301ec81f5e6c39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717557234764
+status: 4
+tags: []
+user_id: kvande97

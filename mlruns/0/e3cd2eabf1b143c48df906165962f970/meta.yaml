@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kylev/OneDrive/Documents/Self%20Development/School/WGU/D501/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e3cd2eabf1b143c48df906165962f970/artifacts
+end_time: 1717557283679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3cd2eabf1b143c48df906165962f970
+run_name: masked-rat-598
+run_uuid: e3cd2eabf1b143c48df906165962f970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717557279641
+status: 4
+tags: []
+user_id: kvande97

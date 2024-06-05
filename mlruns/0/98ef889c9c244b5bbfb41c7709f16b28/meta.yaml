@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kylev/OneDrive/Documents/Self%20Development/School/WGU/D501/Project-Build-an-ML-Pipeline-Starter/mlruns/0/98ef889c9c244b5bbfb41c7709f16b28/artifacts
+end_time: 1717556502005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98ef889c9c244b5bbfb41c7709f16b28
+run_name: funny-fawn-632
+run_uuid: 98ef889c9c244b5bbfb41c7709f16b28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717556454066
+status: 3
+tags: []
+user_id: kvande97

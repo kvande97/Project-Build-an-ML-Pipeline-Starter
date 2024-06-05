@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kylev/OneDrive/Documents/Self%20Development/School/WGU/D501/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7f337b61935b4929b7863d151fe9a337/artifacts
+end_time: 1717556583823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f337b61935b4929b7863d151fe9a337
+run_name: placid-eel-399
+run_uuid: 7f337b61935b4929b7863d151fe9a337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717556330370
+status: 3
+tags: []
+user_id: kvande97

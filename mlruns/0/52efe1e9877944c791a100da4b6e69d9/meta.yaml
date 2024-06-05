@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kylev/OneDrive/Documents/Self%20Development/School/WGU/D501/Project-Build-an-ML-Pipeline-Starter/mlruns/0/52efe1e9877944c791a100da4b6e69d9/artifacts
+end_time: 1717555475645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52efe1e9877944c791a100da4b6e69d9
+run_name: illustrious-duck-721
+run_uuid: 52efe1e9877944c791a100da4b6e69d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717555468638
+status: 4
+tags: []
+user_id: kvande97

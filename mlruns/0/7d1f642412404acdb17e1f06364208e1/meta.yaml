@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kylev/OneDrive/Documents/Self%20Development/School/WGU/D501/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7d1f642412404acdb17e1f06364208e1/artifacts
+end_time: 1717557609456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d1f642412404acdb17e1f06364208e1
+run_name: bustling-panda-547
+run_uuid: 7d1f642412404acdb17e1f06364208e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717557605443
+status: 4
+tags: []
+user_id: kvande97

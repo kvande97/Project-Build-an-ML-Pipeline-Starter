@@ -13,5 +13,7 @@ dependencies:
   - pandas=1.2.3
   - git=2.30.2
   - pip=20.3.3
+  - databricks_cli
   - pip:
       - wandb==0.13.9
+      - databricks_cli==0.8.7
