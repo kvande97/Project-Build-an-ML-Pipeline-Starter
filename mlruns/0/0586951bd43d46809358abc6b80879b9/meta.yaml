@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kylev/OneDrive/Documents/Self%20Development/School/WGU/D501/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0586951bd43d46809358abc6b80879b9/artifacts
+end_time: 1717554568404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0586951bd43d46809358abc6b80879b9
+run_name: peaceful-vole-262
+run_uuid: 0586951bd43d46809358abc6b80879b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717554471941
+status: 3
+tags: []
+user_id: kvande97

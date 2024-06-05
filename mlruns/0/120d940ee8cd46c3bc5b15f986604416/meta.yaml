@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kylev/OneDrive/Documents/Self%20Development/School/WGU/D501/Project-Build-an-ML-Pipeline-Starter/mlruns/0/120d940ee8cd46c3bc5b15f986604416/artifacts
+end_time: 1717554567502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 120d940ee8cd46c3bc5b15f986604416
+run_name: casual-deer-961
+run_uuid: 120d940ee8cd46c3bc5b15f986604416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717554478340
+status: 3
+tags: []
+user_id: kvande97
