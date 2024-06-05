@@ -55,7 +55,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--input_artifact", 
         type = str,
-        help = "Initital artifact to be cleaned"
+        help = "Initital artifact to be cleaned",
         required = True
     )
 
