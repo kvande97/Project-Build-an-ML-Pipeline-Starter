@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/kylev/OneDrive/Documents/Self%20Development/School/WGU/D501/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9c741090264f4eafadb971f3b92d80d2/artifacts
+end_time: 1717553469972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c741090264f4eafadb971f3b92d80d2
+run_name: nosy-frog-491
+run_uuid: 9c741090264f4eafadb971f3b92d80d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717553419201
+status: 3
+tags: []
+user_id: kvande97
