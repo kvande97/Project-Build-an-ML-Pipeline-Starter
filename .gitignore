@@ -1,0 +1,9 @@
+*.DS_Store
+artifacts/
+wandb/
+mlruns/
+outputs/
+random_forest_dir/
+multirun/
+models/
+data/
